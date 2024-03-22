@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @thommell
-- 👀 I’m interested in YOU.
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on non lol
+- 🌱 I’m currently learning C# Game Development in Unity and MonoGame.
 - 📫 How to reach me 
 twit: @REALTHOMMOLL
-dc: thooOOm#0420
-
+linkedin: Thom Slaghekke
 
 
 <!---
