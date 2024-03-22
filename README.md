@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thommell
 - 🌱 I’m currently learning C# Game Development in Unity and MonoGame.
 - 📫 How to reach me 
-twit: @REALTHOMMOLL
 linkedin: Thom Slaghekke
 
 
